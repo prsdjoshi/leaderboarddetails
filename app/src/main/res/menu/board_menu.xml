@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item0"
+        android:icon="@drawable/ic_baseline_monetization_on_24"/>
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_baseline_local_mall_24"/>
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_baseline_assignment_returned_24"/>
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_baseline_widgets_24"/>
+
+</menu>
